@@ -46,7 +46,7 @@
     "no-console": [
       true,
       "debug",
-      "info",
+      "primary",
       "time",
       "timeEnd",
       "trace"
